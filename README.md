@@ -1,11 +1,72 @@
-# CÔNG TY TNHH BAO BÌ VIỆT THÁI
-Việt Thái là một công ty hàng đầu trong lĩnh vực sản xuất nắp chai màng seal
-Việt Thái là một công ty hàng đầu trong lĩnh vực sản xuất nắp chai màng seal, với hơn 10 năm kinh nghiệm và danh tiếng vững chắc trong ngành công nghiệp đóng gói. Với sự tập trung vào chất lượng và độ tin cậy, Việt Thái sử dụng công nghệ tiên tiến và quy trình sản xuất chất lượng cao để đảm bảo rằng mỗi nắp chai màng seal của họ đáp ứng được các tiêu chuẩn nghiêm ngặt nhất.
+<h1> Hello Everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-Việt Thái không chỉ là một nhà cung cấp sản phẩm, mà còn là một đối tác đáng tin cậy, luôn sẵn sàng tư vấn và hỗ trợ khách hàng trong việc chọn lựa sản phẩm phù hợp và cung cấp giải pháp tối ưu cho nhu cầu đóng gói của họ. Đội ngũ kỹ thuật giàu kinh nghiệm của Việt Thái sẽ đảm bảo rằng khách hàng nhận được sự tư vấn chuyên nghiệp và hỗ trợ kỹ thuật tốt nhất.
+<p>
+	<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile;I'm+Web+Developer" />
+</p>
 
-Việt Thái cam kết đáp ứng đúng thời gian và đáp ứng yêu cầu của khách hàng. Họ sở hữu một hệ thống kiểm soát chất lượng nghiêm ngặt, từ việc lựa chọn nguyên liệu chất lượng đến việc kiểm tra kỹ thuật và kiểm tra cuối cùng trước khi giao hàng. Điều này đảm bảo rằng khách hàng sẽ nhận được sản phẩm chất lượng và tin cậy mỗi lần.
+   <a href="https://www.facebook.com/100038052640982" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&labelColor=black&logo=facebook">
+  </a>   
+   <a href="https://www.instagram.com/vuvietnek/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>  
+  <a href="https://vitvu.github.io" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-2a8?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>  
 
-Không chỉ chú trọng đến chất lượng và độ tin cậy, Việt Thái cũng không ngừng nỗ lực để nâng cao khả năng cạnh tranh của mình. Họ đầu tư vào nghiên cứu và phát triển công nghệ, tìm kiếm các cách tiếp cận sáng tạo để cải thiện quy trình sản xuất và tăng cường hiệu suất. Điều này giúp Việt Thái duy trì vị thế hàng đầu trong ngành sản xuất nắp chai màng seal.
+- 👋 Hi, I’m Vu Viet
+- 💼 I'm a Web Devoloper
+- 💬 Talk to me about computer tricks and website programming
+- 👯 I’m looking to collaborate on frontend website
 
-Với sự chuyên nghiệp, chất lượng và đáng tin cậy, Việt Thái là đối tác hàng đầu cho các khách hàng có nhu cầu về nắp chai màng seal. Hãy trải nghiệm dịch vụ của Việt Thái để đảm bảo rằng sản phẩm của bạn được đóng gói và vận chuyển một cách an toàn, bảo đảm chất lượng và tạo niềm tin cho khách hàng của bạn.
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="#"> 
+    <img alt="HTML" src="https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26">
+  </a>
+
+   <a href="#">
+    <img alt="CSS" src="https://img.shields.io/badge/css-0065FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0065FF">
+  </a>
+  
+   <a href="#">
+    <img alt="JS" src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=#f0db4f">
+  </a>
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+	<img alt="Vu Viet Github Stats" src="https://github-readme-stats.vercel.app/api?username=vitvu&show_icons=true&count_private=true" height="192px"/>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitvu&show_icons=true&locale=en&layout=compact" alt="vitvu" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/vitvu"><img alt="Vu Viet Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vitvu&custom_title=Vu%20Viet" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## Popular Projects
+<a href="https://github.com/vitvu/vitvu.github.io">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitvu&repo=vitvu.github.io" />
+</a>  
+
+
+<a href="https://github.com/vitvu/project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitvu&repo=project" />
+</a> 
+
+----------------------------------------------------------------------
+Create by Vu Viet
